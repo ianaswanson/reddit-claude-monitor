@@ -1,0 +1,27 @@
+# Environment Variables (contains API credentials)
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data Files (contains processed post IDs and insights)
+claude_insights.json
+claude_digest_*.txt
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
