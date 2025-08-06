@@ -1,0 +1,10 @@
+{
+  "status": "healthy",
+  "last_check": "2025-08-06T05:56:15.398241",
+  "last_success": "2025-08-06T05:56:15.398243",
+  "error_count": 0,
+  "uptime_start": "2025-08-06T05:56:13.525932",
+  "uptime_minutes": 0,
+  "insights_found_today": 1,
+  "total_insights": 1
+}
